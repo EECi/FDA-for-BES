@@ -33,6 +33,8 @@ The MATLAB command to run the model is
 
 where Base and Range are the median hourly base load and load range and Cluster is a value from 1 to 4 indicating the expected variability. The outputs Test2019 and Test2020 are the sample annual data for a non-leap year (2019) and a leap year (2020), and SampleWeekdays and SampleWeekends are the daily samples that have been used to build the annual demand profile.
 
+<img src="https://github.com/EECi/FDA-for-BES/blob/master/img/Sample1.png" width = "1600">
+
 ### Design model: lighting
 The model includes weekday and weekend normalised sample lighting profiles for 5 different clusters.  These 5 clusters correspond to different types of lighting control in different building zones and the suggested choice of variability is:
 
