@@ -69,6 +69,10 @@ The file **RetrofitModel.m** illustrates how to project the data for a single zo
 
 The generated sample appears in MATLAB file **AnnualDemand.mat** and is also saved to file **AnnualDemand.csv** for ease of input into a building energy simulation (**AnnualDemandL.mat** for the leap year data).
 
+The following figure shows sample output for Zone 1.
+
+<img src="img/RetrofitSample1.png" alt="drawing" width="500"/>
+
 ### Base model
 This is the model used to generate PCs and scores directly from the training data.  As for the retrofit model, the data must be formatted and normalised and the sample data **TestData.mat** and **TestDataN.mat** are used as an example. The base model calculates the PCs and scores for the 5 zones together, these are similar to but different from the PCs calculated for the large training dataset provided for the Retrofit model.
 
