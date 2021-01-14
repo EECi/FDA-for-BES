@@ -1,4 +1,7 @@
 function [fn,qn,q0,fmean,mqn,gam,psi,stats] = TimeWarp(f,t,lambda,option)
+%
+% Code from https://github.com/jdtuck/fdasrvf_MATLAB
+%
 % input:
 % f (M,N): matrix defining N functions of M samples
 % y : response vector of length N

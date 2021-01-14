@@ -1,4 +1,7 @@
 function gam = optimum_reparam_new(q1,q2,t,lambda,method,w,f1o,f2o)
+%
+% Code from https://github.com/jdtuck/fdasrvf_MATLAB
+%
 addpath(genpath('DP'))
 addpath(genpath('gropt'))
 if nargin < 4

@@ -1,5 +1,7 @@
 function q = f_to_srvf_new(f,time)
-
+%
+% Code from https://github.com/jdtuck/fdasrvf_MATLAB
+%
 binsize = mean(diff(time));
 [M, N] = size(f);
 

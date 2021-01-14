@@ -1,4 +1,7 @@
 function [mu,gam_mu,psi,vec] = SqrtMean(gam)
+%
+% Code from https://github.com/jdtuck/fdasrvf_MATLAB
+%
  
 [n,T] = size(gam); % gam 24 x 505, transposed on entry to routine 
 dT = 1/(T-1);

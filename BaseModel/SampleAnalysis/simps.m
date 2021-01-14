@@ -1,4 +1,7 @@
 function z = simps(x,y,dim)
+%
+% Code from https://github.com/jdtuck/fdasrvf_MATLAB
+%
 %SIMPS  Simpson's numerical integration.
 %   Z = SIMPS(Y) computes an approximation of the integral of Y via the
 %   Simpson's method (with unit spacing). To compute the integral for

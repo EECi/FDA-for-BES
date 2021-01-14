@@ -1,4 +1,7 @@
 function gamI = SqrtMeanInverse(gam)
+%
+% Code from https://github.com/jdtuck/fdasrvf_MATLAB
+%
  
 [n,T] = size(gam);
 dT = 1/(T-1);
