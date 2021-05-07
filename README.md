@@ -106,8 +106,9 @@ The mean and 90% confidence limits of the generated samples are plotted against 
 
 **Application to the context of building internal loads:**
 
-6) R. Ward, R. Choudhary, Y. Heo, and J. Aston,  *A data-centric bottom up model for generation of stochastic internal load profiles based on space-use type.* Journal of Building Performance Simulation, 12: 5:620 – 636, 2019.
-7) R. Ward, C. Sze Yin Wong, A. Chong, R. Choudhary, and S. Ramasamy,  *A study on the transferability of computational models of building electricity load patterns across climatic zones*. Energy and Buildings (under review), 2020
+6) R.M. Ward, R. Choudhary, Y. Heo, and J. Aston,  *A data-centric bottom up model for generation of stochastic internal load profiles based on space-use type.* Journal of Building Performance Simulation, 12(5), 620 – 636, 2019. https://doi.org/10.1080/19401493.2019.1583287
+7) R. Ward, C. Sze Yin Wong, A. Chong, R. Choudhary, and S. Ramasamy,  *A study on the transferability of computational models of building electricity load patterns across climatic zones.* Energy and Buildings 237, 110826, 2021.  https://doi.org/10.1016/j.enbuild.2021.110826
+8) R.M. Ward, R. Choudhary, *A tool for generation of stochastic occupant-based internal loads using a functional data analysis approach to re-define ‘activity’.* Journal of Building Performance Simulation 14(3), 303-327, 2021. https://doi.org/10.1080/19401493.2021.1919209
 
 
 
